@@ -1,7 +1,5 @@
-import java.math.BigInteger;
 
-
-public class Lab
+public class Lab01
 {
     static int CalculateFi(int p,int q)
     {
